@@ -1,0 +1,10 @@
+
+.margint10{
+  margin-top: 10px;
+}
+.sidebar-left{
+    padding: 30px;
+    background: #ddd;
+    border: 1px solid rgba(70, 74, 76, 0.41);
+    border-radius: 5px;
+}
